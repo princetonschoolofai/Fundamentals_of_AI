@@ -1,4 +1,6 @@
 # Fundamentals_of_AI
+Adam's email: awill13913@gmail.com
+
 
 Class 1 - https://colab.research.google.com/drive/1f2KtAY_ec_3aQlVrojFhzCAZVtExyU_w
 
