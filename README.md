@@ -9,3 +9,5 @@ Class 2 - https://colab.research.google.com/drive/1FcA6ZgZ4FdCzuMPEOHbpkxa3PeaI0
 Class 3 - https://colab.research.google.com/drive/1ACgfnYaWXUqvMQ20LUn4nbGucFpaXaKQ
 
 Class 4 - https://colab.research.google.com/drive/1TdJRCNyObuW7cEmqVa0sZlmSmT-wa7-2
+
+Class 5 - https://colab.research.google.com/drive/1R9XDRRcujykngcS-qIrhgKxCTtdlXhYb
