@@ -10,6 +10,6 @@ Class 3 - https://colab.research.google.com/drive/1ACgfnYaWXUqvMQ20LUn4nbGucFpaX
 
 Class 4 - https://colab.research.google.com/drive/1TdJRCNyObuW7cEmqVa0sZlmSmT-wa7-2
 
-(Will post class 5 after class, it is on the meetup)
+Class 5 - https://colab.research.google.com/drive/1MLYvJwbd-JEhJVaPUMMi2UPUs92MJKvH
 
 Class 6 - https://colab.research.google.com/drive/1kpmcR6yL-MdNOjtc5GAum8mYCmlHDpof
