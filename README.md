@@ -13,3 +13,5 @@ Class 4 - https://colab.research.google.com/drive/1TdJRCNyObuW7cEmqVa0sZlmSmT-wa
 Class 5 - https://colab.research.google.com/drive/1MLYvJwbd-JEhJVaPUMMi2UPUs92MJKvH
 
 Class 6 - https://colab.research.google.com/drive/1kpmcR6yL-MdNOjtc5GAum8mYCmlHDpof
+
+Class 7 - https://colab.research.google.com/drive/1aufBZMkx6EjhE6_4gOih8b1RGLvJpV2F
