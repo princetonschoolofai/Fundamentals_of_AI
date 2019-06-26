@@ -18,4 +18,7 @@ Class 7 - https://colab.research.google.com/drive/1aufBZMkx6EjhE6_4gOih8b1RGLvJp
 
 Class 8 - https://colab.research.google.com/drive/1kZiNf5HCTfLHBuRFhgmJHBWF-eNnjRMu
 
+Supplementary material - https://docs.google.com/document/d/1nL3xBpvg5XMGU9D1FdnszkdX3JhPq55vFDKF13fPXWU/
+Courtesy of Evgeniy Kashchenko
+
 Class 9 - https://colab.research.google.com/drive/1sE_6kDNBM2bBSWe0htwmLkxWQ5WkIb91
